@@ -1,0 +1,14 @@
+{
+    "name": "muragesportfolio.github.io",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "deploy": "gh-pages -d your-directory-name"
+    },
+    "homepage": "https://github.com/murage-space/muragesportfolio.github.io.git",
+    "dependencies": {
+      "gh-pages": "^3.1.0"
+    }
+  }
+  
